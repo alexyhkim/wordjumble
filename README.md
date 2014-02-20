@@ -6,21 +6,23 @@ Takes in string as input, prints out all possible words that can be formed from 
 For example:
 
 > python wordjumble.py dog
-\ndog
->odg
->ogd
->dgo
->gdo
->god
->dg
->gd
->do
->od
->og
->go
->g
->o
->d
+dog
+
+odg
+
+ogd
+dgo
+gdo
+god
+dg
+gd
+do
+od
+og
+go
+g
+o
+d
 
 Handles duplicate letters:
 
