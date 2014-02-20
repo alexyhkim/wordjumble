@@ -5,11 +5,9 @@ Takes in string as input, prints out all possible words that can be formed from 
 
 For example:
 
-> python wordjumble.py dog
+python wordjumble.py dog
 dog
-
 odg
-
 ogd
 dgo
 gdo
@@ -26,13 +24,13 @@ d
 
 Handles duplicate letters:
 
->python wordjumble.py app
->app
->pap
->ppa
->ap
->pa
->pp
->p
->p
->a
+python wordjumble.py app
+app
+pap
+ppa
+ap
+pa
+pp
+p
+p
+a
