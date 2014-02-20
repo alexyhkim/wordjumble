@@ -6,7 +6,7 @@ Takes in string as input, prints out all possible words that can be formed from 
 For example:
 
 > python wordjumble.py dog
->dog
+\ndog
 >odg
 >ogd
 >dgo
